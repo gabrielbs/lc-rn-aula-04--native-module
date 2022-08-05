@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lc-rn-aula-04-bare",
+    "slug": "lc-rn-aula-04-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
